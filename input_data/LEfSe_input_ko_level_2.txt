@@ -1,0 +1,32 @@
+Aging	3.48460342067			0.00639226887077
+Glycan biosynthesis and metabolism	4.61765543846			-
+Cell growth and death	4.32669015622			0.00388490662212
+Cellular community - prokaryotes	4.53483652367	Digesta	3.99415924459	0.00388490662212
+Transcription	3.66779000662			0.00388490662212
+Infectious disease _bacterial	3.8724664554			-
+Drug resistance - antimicrobial	4.27431447199			0.0247217123384
+Replication and repair	4.89230284181	Tissue	4.0176163082	0.00388490662212
+Xenobiotics biodegradation and metabolism	4.49262906137	Digesta	4.07978243656	0.00388490662212
+Cell motility	4.95610317648	Tissue	4.28963297822	0.00388490662212
+Immune disease	0.0			-
+Folding, sorting and degradation	4.71859652129	Tissue	3.86905432616	0.00388490662212
+Metabolism of other amino acids	4.88433137429	Tissue	3.88645266783	0.00388490662212
+Metabolism of cofactors and vitamins	5.08620993456			0.0370407305919
+Biosynthesis of other secondary metabolites	4.44010430887			-
+Digestive system	3.325339645			-
+Signal transduction	3.83609166202			-
+Carbohydrate metabolism	5.07773814878	Digesta	3.93494792738	0.00388490662212
+Translation	4.6694768357	Tissue	3.96496437959	0.00388490662212
+Energy metabolism	4.75057127946			-
+Lipid metabolism	4.77938558308	Digesta	3.95579892335	0.00388490662212
+Amino acid metabolism	5.12394335355			-
+Immune system	2.92977894372			-
+Endocrine system	3.36502652527			0.00388490662212
+Transport and catabolism	3.63319901748			0.00388490662212
+Drug resistance - antineoplastic	3.11407244459			-
+Nucleotide metabolism	4.37008749487			0.0161224153433
+Metabolism of terpenoids and polyketides	4.50379147545	Digesta	3.87636204659	0.00388490662212
+Environmental adaptation	3.63287481652			0.00388490662212
+Membrane transport	4.44777588183	Digesta	3.72960344125	0.00388490662212
+Neurodegenerative disease	3.11232132682			-
+Infectious disease - parasitic	2.93550066398			0.00388490662212

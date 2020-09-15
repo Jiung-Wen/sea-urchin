@@ -1,0 +1,18 @@
+Taxon	log average	Class	LDA	p-value
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Ferrimonadaceae;g__Ferrimonas;s__	4.000010218	Digesta	3.726513737	0.002092998
+k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Sulfurimonas;s__	3.582748847	Digesta	3.789368511	0.036709258
+k__Bacteria;p__Proteobacteria;c__Deltaproteobacteria;o__Desulfobacterales;f__Desulfobulbaceae;g__Desulfobulbus;s__mediterraneus	2.330468151	Digesta	3.921279888	0.022229618
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Alteromonadaceae;g__Agarivorans;s__	4.78019582	Digesta	4.474625093	0.002801666
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Vibrio;__	5.409490086	Digesta	5.115655472	0.002801666
+k__Bacteria;p__Bacteroidetes;c__[Saprospirae];o__[Saprospirales];f__Saprospiraceae;g__;s__	2.595985806	Digesta	3.693497411	0.022229618
+k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__;f__;g__;s__	3.80737034	Digesta	3.900379947	0.003345618
+k__Bacteria;p__Fusobacteria;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Propionigenium;s__	4.889565292	Digesta	4.583366912	0.016122415
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;__;__;__;__	2.438197469	Digesta	4.337536718	0.008980671
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Photobacterium;s__	4.669143237	Digesta	4.370244079	0.002092998
+k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__;g__;s__	4.578576783	Digesta	4.290246201	0.003345618
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales;f__Shewanellaceae;g__Shewanella;s__benthica	3.608534704	Digesta	3.659838268	0.002092998
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Vibrionales;f__Vibrionaceae;g__Photobacterium;s__rosenbergii	3.216754745	Digesta	4.040919787	0.002092998
+k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Legionellales;f__;g__;s__	1.592744283	Digesta	4.323720662	0.022229618
+k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__;s__	2.78148821	Digesta	4.053312113	0.032630283
+k__Bacteria;p__Proteobacteria;c__Epsilonproteobacteria;o__Campylobacterales;f__Campylobacteraceae;g__;s__	5.985209133	Tissue	5.67061241	0.003884907
+k__Bacteria;p__Tenericutes;c__Mollicutes;o__Mycoplasmatales;f__Mycoplasmataceae;g__Candidatus Hepatoplasma;s__	4.324159566	Tissue	4.06375361	0.002750444

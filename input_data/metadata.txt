@@ -1,0 +1,13 @@
+Sample Id	Location	Type
+ENVGutDigesta1	Digesta	ENV
+ENVGutDigesta2	Digesta	ENV
+ENVGutDigesta3	Digesta	ENV
+ENVGutTissue1	Tissue	ENV
+ENVGutTissue2	Tissue	ENV
+ENVGutTissue3	Tissue	ENV
+LabGutDigesta1	Digesta	LAB
+LabGutDigesta2	Digesta	LAB
+LabGutDigesta3	Digesta	LAB
+LabGutTissue1	Tissue	LAB
+LabGutTissue2	Tissue	LAB
+LabGutTissue3	Tissue	LAB
